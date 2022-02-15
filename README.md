@@ -2,7 +2,7 @@
 This repo provides a simple NFT smart contract.
 
 ## Usage
-To make use of the NFT smart contract, simply copy the SimpleNft_flat.sol file in the contract folder and deploy it on remix after changing the parameters.
+To make use of the NFT smart contract, simply copy the ~SimpleNft_flat.sol~ file in the contract folder and deploy it on remix after changing the parameters.
 
 ## Disclaimer
 These contracts have been used to create tutorials,
