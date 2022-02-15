@@ -1,6 +1,6 @@
 # Welcome to LazyEyes 👁
 
-![](https://github.com/lazyeyesdao/lazyeyes-nft-contract/blob/main/Logo%20Site.png)
+![](https://github.com/lazyeyesdao/lazyeyes-nft-contract/blob/main/Logo.png)
 
 # LazyEyes NFT contract 🔥
 
