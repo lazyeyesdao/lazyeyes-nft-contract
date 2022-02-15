@@ -17,7 +17,7 @@ To make use of the NFT smart contract, simply copy the `SimpleNft_flat.sol` file
     how to create smart contracts on the blockchain.
     please review this code on your own before using any of
     the following code for production.
-    HashLips will not be liable in any way if for the use
+    LazyEyes will not be liable in any way if for the use
     of the code. That being said, the code has been tested
     to the best of the developers' knowledge to work as intended.
 
