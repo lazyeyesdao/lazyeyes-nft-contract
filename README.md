@@ -22,3 +22,5 @@ To make use of the NFT smart contract, simply copy the `SimpleNft_flat.sol` file
     to the best of the developers' knowledge to work as intended.
 
 That's it! you're done.
+
+Documentation: https://lazy-eyes.gitbook.io/overview/university/minting-contracts-and-storage-nfts
